@@ -1,1 +1,2 @@
 1.guo --add 1
+2.guo -add 2
